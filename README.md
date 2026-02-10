@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
