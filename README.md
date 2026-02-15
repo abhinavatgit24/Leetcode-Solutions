@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
