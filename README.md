@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
