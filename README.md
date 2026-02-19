@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
