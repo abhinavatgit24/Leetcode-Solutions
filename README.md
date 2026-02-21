@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3379-transformed-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Sliding Window
 |  |
