@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -75,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
