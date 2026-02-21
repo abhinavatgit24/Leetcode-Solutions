@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
