@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -219,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
