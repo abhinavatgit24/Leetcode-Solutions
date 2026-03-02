@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0228-summary-ranges) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
