@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0819-most-common-word) |
+| [1051-height-checker](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1051-height-checker](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -281,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
