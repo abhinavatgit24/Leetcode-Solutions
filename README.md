@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0338-counting-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0338-counting-bits) |
 ## Binary Indexed Tree
 |  |
 | ------- |
