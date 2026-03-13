@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0228-summary-ranges](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0338-counting-bits) |
