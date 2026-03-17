@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1051-height-checker](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1051-height-checker) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0135-candy) |
 | [1382-balance-a-binary-search-tree](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search Tree
 |  |
