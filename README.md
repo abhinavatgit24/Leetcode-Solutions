@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0912-sort-an-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
