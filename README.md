@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0819-most-common-word](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0205-isomorphic-strings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
