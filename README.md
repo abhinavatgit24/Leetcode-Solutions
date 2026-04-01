@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
