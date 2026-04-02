@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
