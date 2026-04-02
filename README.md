@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
