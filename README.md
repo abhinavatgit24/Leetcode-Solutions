@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1903-largest-odd-number-in-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3379-transformed-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3379-transformed-array) |
 ## Sliding Window
