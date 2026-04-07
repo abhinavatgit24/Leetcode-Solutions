@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0268-missing-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0218-the-skyline-problem](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0189-rotate-array) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0706-design-hashmap](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0912-sort-an-array) |
