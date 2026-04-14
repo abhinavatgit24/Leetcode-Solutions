@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0289-game-of-life) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
