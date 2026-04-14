@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0136-single-number) |
