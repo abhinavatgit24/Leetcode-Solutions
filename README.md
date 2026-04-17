@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0171-excel-sheet-column-number) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
