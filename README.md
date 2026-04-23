@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2094-finding-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2615-sum-of-distances](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2615-sum-of-distances](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
