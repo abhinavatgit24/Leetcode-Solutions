@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1539-kth-missing-positive-number](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1657-determine-if-two-strings-are-close](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2615-sum-of-distances](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/2615-sum-of-distances) |
 | [3714-longest-balanced-substring-ii](https://github.com/abhinavatgit24/Leetcode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
